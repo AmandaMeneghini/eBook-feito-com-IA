@@ -5,4 +5,4 @@ Meu objetivo neste eBook é que seja útil a pessoas que tenham dificuldade por 
 
 # Prompts e Conversa completa com o chatGPT 
 
-<a href="https://chatgpt.com/share/347e4e80-9394-45b2-8f64-40aa4992a2b3">Clique aqui</a> para Visualizae
+<a target="_blank" href="https://chatgpt.com/share/347e4e80-9394-45b2-8f64-40aa4992a2b3">Clique aqui</a> para Visualizae

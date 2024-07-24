@@ -6,3 +6,7 @@ Meu objetivo neste eBook é que seja útil a pessoas que tenham dificuldade por 
 # Prompts e Conversa completa com o chatGPT 
 
 <a target="_blank" href="https://chatgpt.com/share/347e4e80-9394-45b2-8f64-40aa4992a2b3">Clique aqui</a> para Visualizae
+
+# Organização e Brainstorm
+
+<a target="_blank" href="https://app.milanote.com/1SvYeX1YYO3M6S?p=LwqTauaHZz3"><img src="https://lh3.googleusercontent.com/pw/AP1GczNTYSgzYY5pitc0bfftFQo_HXxzQQuGz-fVTJ7-dtYIOZwjdYYfA7tC6rppkgaSjRNGQdtuRV2QP0rL1-b4eVU4ydvmzmpr-WEJgitxk96iDCH6tx_xZmdsf2A2VRimW3z1NiFmZRlME9kWUYLZmmIGSw=w1173-h953-s-no-gm?authuser=0"></a>

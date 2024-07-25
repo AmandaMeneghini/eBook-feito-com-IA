@@ -15,7 +15,7 @@ Este projeto é o resultado de um exercício do curso "Santander 2024 - Fundamen
 ### 1.1 Organização e Brainstorm
 
 <a target="_blank" href="https://app.milanote.com/1SvYeX1YYO3M6S?p=LwqTauaHZz3">
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczNTYSgzYY5pitc0bfftFQo_HXxzQQuGz-fVTJ7-dtYIOZwjdYYfA7tC6rppkgaSjRNGQdtuRV2QP0rL1-b4eVU4ydvmzmpr-WEJgitxk96iDCH6tx_xZmdsf2A2VRimW3z1NiFmZRlME9kWUYLZmmIGSw=w1173-h953-s-no-gm?authuser=0" style="max-width: 500px;">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczNTYSgzYY5pitc0bfftFQo_HXxzQQuGz-fVTJ7-dtYIOZwjdYYfA7tC6rppkgaSjRNGQdtuRV2QP0rL1-b4eVU4ydvmzmpr-WEJgitxk96iDCH6tx_xZmdsf2A2VRimW3z1NiFmZRlME9kWUYLZmmIGSw=w1173-h953-s-no-gm?authuser=0" width="600">
 </a>
 
 ### 2. Geração de Imagens
@@ -26,12 +26,12 @@ Me ajude a criar um prompt para fazer uma imagem no midJourney onde tem um jovem
 ```
 
 ![prompt copilot](./assets/images/image.png)
-<img src="./assets/images/image-copilot.jfif" style="max-width: 300px">
+<img src="./assets/images/image-copilot.jfif" width="300">
 
 ### 3. Design da Capa
 - Editei a capa no Photoshop, utilizando também o recurso de IA do **Adobe Firefly** para aprimorar a resolução de altura e largura do design.
 
-<img src="./assets/images/capa.png" style="max-width: 300px">
+<img src="./assets/images/capa.png" width="300">
 
 ### 4. Construção do eBook 🛠 
 - Utilizei o **PowerPoint** para montar o PDF do eBook, organizando o conteúdo e ajustando o layout.
@@ -40,7 +40,7 @@ Me ajude a criar um prompt para fazer uma imagem no midJourney onde tem um jovem
 
 ![imagem de uma parte da conversa com o chatGPT](./assets/images/image-1.png)
 
-Alguns dos **principais** prompts utilizados:
+### Alguns dos **principais** prompts utilizados:
 ```
 me dê sugestões de temas para um ebook que seja relevante na área da igreja e audiovisual 
 ```
@@ -87,7 +87,7 @@ Crie um título que chame atenção sobre o conteúdo que fizemos nesta conversa
     
 ```
 
-## ⚙ Construido com 
+## ⚙ Construído com 
 
 <a href="https://milanote.com/"><img src="./assets/images/icons/milanote.png" width="50" alt="Logo Milanote"></a>
 <a href="https://copilot.microsoft.com/"><img src="./assets/images/icons/copilot.png" width="50" alt="Logo Microsoft Copilot"></a>

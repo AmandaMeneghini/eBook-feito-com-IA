@@ -89,12 +89,13 @@ Crie um título que chame atenção sobre o conteúdo que fizemos nesta conversa
 
 ## ⚙ Construido com 
 
-<div style="display: flex"><a href="https://milanote.com/"><img src="./assets/images/icons/milanote.png" style="max-width:50px; margin-right: 5px" alt="Logo Milanote"></a>
-<a href="https://copilot.microsoft.com/"><img src="./assets/images/icons/copilot.png" style="max-width:50px; margin-right: 5px" alt="Logo Microsoft Copilot"></a>
-<a href="https://chatgpt.com/"><img src="./assets/images/icons/chatgpt.png" style="max-width:50px; margin-right: 5px" alt="Logo chatGPT"></a>
-<a href="https://www.adobe.com/br/products/photoshop.html"><img src="./assets/images/icons/adobe-photoshop.png" style="max-width:50px; margin-right: 5px" alt="Logo Adobe Photoshop"></a>
-<a href="https://www.adobe.com/br/products/firefly.html"><img src="./assets/images/icons/adobe-firefly.png" style="max-width:50px; margin-right: 5px" alt="Logo Adobe Firefly"></a>
-<a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint"><img src="./assets/images/icons/powerpoint.png" style="max-width:50px"></a></div>
+<a href="https://milanote.com/"><img src="./assets/images/icons/milanote.png" width="50" alt="Logo Milanote"></a>
+<a href="https://copilot.microsoft.com/"><img src="./assets/images/icons/copilot.png" width="50" alt="Logo Microsoft Copilot"></a>
+<a href="https://chatgpt.com/"><img src="./assets/images/icons/chatgpt.png" width="50" alt="Logo chatGPT"></a>
+<a href="https://www.adobe.com/br/products/photoshop.html"><img src="./assets/images/icons/adobe-photoshop.png" width="50" alt="Logo Adobe Photoshop"></a>
+<a href="https://www.adobe.com/br/products/firefly.html"><img src="./assets/images/icons/adobe-firefly.png" width="50" alt="Logo Adobe Firefly"></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint"><img src="./assets/images/icons/powerpoint.png" width="50" alt="Logo PowerPoint"></a>
+
 
 
 ## 👨‍💻 Autora

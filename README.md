@@ -79,10 +79,12 @@ Crie um título que chame atenção sobre o conteúdo que fizemos nesta conversa
 ```
 /
 ├── assets/
-│   ├── images/           # Imagens utilizadas no eBook
+│   └── images/           # Imagens utilizadas
+|         └── icons/      # logos utilizados
 ├── docs/
-│   ├── ebook.pdf         # PDF do eBook final
-│   └── Milanote-board/   # Exportação do board do Milanote
+│   └── eBook - Criando Conteúdo Visual - O Guia Inicial Para 
+|               Engajar e Inspirar Sua Congregação.pdf         # PDF do eBook final
+│   
 └── README.md             # Este arquivo
     
 ```

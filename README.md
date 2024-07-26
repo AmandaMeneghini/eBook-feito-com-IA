@@ -1,5 +1,7 @@
 # eBook-feito-com-IA
 
+<img src="./assets/images/Hardcover Book Mockup Poster.png" width="600">
+
 # Criando Conteúdo Visual - O Guia Inicial Para Engajar e Inspirar Sua Congregação
 
 ## Descrição

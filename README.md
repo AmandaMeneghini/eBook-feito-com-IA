@@ -72,7 +72,7 @@ Crie um título que chame atenção sobre o conteúdo que fizemos nesta conversa
   
 2. Navegue até a pasta do projeto:
   ```bash
-  cd seu-repositorio
+  cd eBook-feito-com-IA
   ```
 3. Abra o arquivo 
 "eBook - Criando Conteúdo Visual - O Guia Inicial Para Engajar e Inspirar Sua Congregação.pdf" para visualizar o eBook completo.
